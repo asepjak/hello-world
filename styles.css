@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  text-decoration: dashed;
+  background-color: #fff;
+  color: navy;
+}
+p {
+  text-align: center;
+  text-decoration:unset;
+  text-decoration-color: black;
+}
+
+body{
+    background-color: lightblue;
+}
